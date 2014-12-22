@@ -35,9 +35,11 @@ This keyboarded and encoded edition of the
 ##Content Summary##
 
 #####Front#####
-The great impostor laid open in a sermon at Grayes Inne, Febr. 2.1623. By Ios. Hall D.D.Hall, Joseph
+TO THE MOST NOBLE, AND WORTHILY Honoured Societie OF GRAYES INNE: AT WHOSE BARRE This IMPOSTOR was o
 #####Body#####
-The great impostor laid open in a sermon at Grayes Inne, Febr. 2.1623. By Ios. Hall D.D.Hall, Joseph
+
+1. THE GREAT IMPOSTOR, Laid open, out of IER. 17.9. The heart is deceitfull aboue all things.
+
 **Types of content**
 
   * Oh, Mr. Jourdain, there is **prose** in there!
